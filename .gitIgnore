@@ -1,0 +1,15 @@
+# Mac
+.DS_Store
+
+# User settings
+xcuserdata/
+
+# SP
+Packages
+xcuserdata
+*.xcodeproj
+
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcworkspace/contents.xcworkspacedata
+**/xcshareddata/WorkspaceSettings.xcsettings
